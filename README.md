@@ -9,4 +9,4 @@ If you would like to buy me a coffee:
 
 PayPal - paypal.me/TheHighPerspective
 
-Bicoin - bc1qtvq3sqd7ulz7dk4u0vn5jqdd8jl7l9w7jwt86s
+Bitcoin - bc1qtvq3sqd7ulz7dk4u0vn5jqdd8jl7l9w7jwt86s
